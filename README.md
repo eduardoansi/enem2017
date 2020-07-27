@@ -10,7 +10,7 @@
 
 ### Tools and languages selected
 
-- **Python** for programming, data cleaning, calculations, running queries. Libraries used were Dask, Pandas, NumPy, SQLAlchemy, PyMySQL, iPython-SQL
+- **Python 3.8 | Anaconda distribution** for programming, data cleaning, calculations, running queries. Libraries used were Dask, Pandas, NumPy, SQLAlchemy, PyMySQL, iPython-SQL
 - **Jupyter Notebook** as the Python IDE
 - **MySQL** as the Relational Database Management System (RDBMS)
 - **MySQL Workbench** for creating the dimensional modeling
@@ -18,6 +18,8 @@
 - **AWS EC2** to host the Python Environment and Jupyter Notebooks
 - **AWS RDS** to host the MySQL database
 - **GitHub** to document and display the code and analysis
+- **WSL** to connect to EC2 instance with Linux
+- **Ubuntu 20.04 LTS** as the Linux distribution on WSL
 
 ### Dimension modeling
 

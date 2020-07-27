@@ -15,8 +15,7 @@
 - **MySQL** as the Relational Database Management System (RDBMS)
 - **MySQL Workbench** for creating the dimensional modeling
 - **Power BI** for generating the dashboards
-- **AWS EC2** to host the Python Environment and Jupyter Notebooks
-- **AWS RDS** to host the MySQL database
+- **AWS EC2** to host the Python Environment, Jupyter Notebooks and MySQL database
 - **GitHub** to document and display the code and analysis
 - **WSL** to connect to EC2 instance with Linux
 - **Ubuntu 20.04 LTS** as the Linux distribution on WSL

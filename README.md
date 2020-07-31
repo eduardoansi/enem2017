@@ -1,12 +1,17 @@
 ## ENEM 2017 Analysis
 
-### Files
-
-
-
 ### Introduction
 
 This project aims to analyze the data from 2017's ENEM, a national exam that serves as part of the admission process to brazilian universities, as well as explore different tools and approaches to organizing, storing and displaying data within the context of a data analyst job.
+
+### Files
+
+README.md - Project description
+dimensionalmodeling.png - Chart of the proposed dimensional modeling
+DataPreparation.ipynb - Jupyter Notebook with the Python code
+querycommands.sql - List with the most relevant SQL commands used for the project
+dashboard.png - Screenshot of the final dashboard
+dashboard_enem.pbix - Power BI file with the dashboard visuals
 
 ### Selected technology and tools
 
@@ -73,6 +78,8 @@ I published it within the web app and concluded the project.
 
 ![image](https://github.com/eduardoansi/enem2017/blob/master/dashboard.png)
 
+This is the link to the html-ready version: [Dashboard link]'https://app.powerbi.com/view?r=eyJrIjoiNWE4NTkxYjUtMjhjNy00YjEyLTllOGUtNDdkNmQ2YjZiNzBmIiwidCI6IjI5ZTY1ZjJhLTIxNGQtNDhjYi1iYTFkLTMzNmJmZmMxYjUyNCJ9&pageName=ReportSection'
+
 #### Coding ####
 
 Because almost all of my coding was done inside Jupyter Notebook, all the commands, even for SQL, are well documented there. The file is in this repository as well, named dataprocessing.ipynb.
@@ -87,7 +94,7 @@ This ENEM dataset has a lot to offer when we try to understand not only the educ
 
 Bigger cities have students with a somewhat higher average score than students from smaller cities. While the sample size of big cities is more abundant, encompassing both types of students, those who perform well and those who don't - and all in between - generally there is already a tendency for divergence in the scores. Analyzing this information together with IDH we can notice that living in a bigger city is an advantage, although the reasons are not clear just by the charts.
 
-The IDH is an index that tries to quantify the quality of live of any given location, and within its metrics it uses data about health, security, leisure and education. There is some multicolinearity in analyzing exam scores and IDH together, because a part of the latter is based indirectly on the former. But it also has to be considered that the other factors that determine the IDH value are relevant for this result, specially because it says a lot about the whole environment where the student is inserted and how secure and/or free he or she is to focus on education.
+The IDH is an index that tries to quantify the quality of live of any given location, and within its metrics it uses data about health, wealth and education. There is some multicolinearity in analyzing exam scores and IDH together, because a part of the latter is based indirectly on the former. But it also has to be considered that the other factors that determine the IDH value are relevant for this result, specially because it says a lot about the whole environment where the student is inserted and how secure and/or free he or she is to focus on education.
 
 At the same time, IDH and population size are linked as well. Usually bigger cities have better infrastructure, not only of schools, but also hospitals, parks, public services, transportation, among others, creating a favorable situation for those who live in those urban centers.
 

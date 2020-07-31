@@ -2,27 +2,21 @@
 
 ### Introduction
 
+This project aims to analyze the data from 2017's ENEM, a national exam that serves as part of the admission process to brazilian universities, as well as explore different tools and approaches to organizing, storing and displaying data within the context of a data analyst job.
 
+### Selected technology and tools
 
-### Overview of the requirements
-
--
-
-### Tools and languages selected
-
-- **Python 3.8 | Anaconda distribution** for programming, data cleaning, calculations, running queries. Libraries used were Dask, Pandas, NumPy, SQLAlchemy, PyMySQL, iPython-SQL
-- **Jupyter Notebook** as the Python IDE
-- **MySQL** as the Relational Database Management System (RDBMS)
-- **MySQL Workbench** for creating the dimensional modeling
+- **AWS** for creating the environment to analyze and store data
+- **AWS S3** to store all the raw and processed data before being inserted into the database
+- **AWS Redshift** as the RMDB, based on PostgreSQL
+- **AWS SageMaker** for programming, data cleaning, calculations, running queries. Python distribution was 3.6 from Anaconda (Jupyter Notebook) and libraries used were Dask, Pandas, NumPy, GeoPandas, psycopg2
 - **Power BI** for generating the dashboards
-- **AWS EC2** to host the Python Environment, Jupyter Notebooks and MySQL database
 - **GitHub** to document and display the code and analysis
-- **WSL** to connect to EC2 instance with Linux
-- **Ubuntu 20.04 LTS** as the Linux distribution on WSL
+- **MarkDown** to write the documentation
 
 ### Dimension modeling
 
--
+![image](https://github.com/eduardoansi/enem2017/blob/master/dimensionalmodeling.png)
 
 ### Execution
 

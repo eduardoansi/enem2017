@@ -71,6 +71,8 @@ With Power BI I could connect directly to the Redshift database, not having to d
 
 I published it within the web app and concluded the project.
 
+![image](https://github.com/eduardoansi/enem2017/blob/master/dashboard.png)
+
 #### Coding ####
 
 Because almost all of my coding was done inside Jupyter Notebook, all the commands, even for SQL, are well documented there. The file is in this repository as well, named dataprocessing.ipynb.

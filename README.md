@@ -6,12 +6,12 @@ This project aims to analyze the data from 2017's ENEM, a national exam that ser
 
 ### Files
 
-README.md - Project description
-dimensionalmodeling.png - Chart of the proposed dimensional modeling
-DataPreparation.ipynb - Jupyter Notebook with the Python code
-querycommands.sql - List with the most relevant SQL commands used for the project
-dashboard.png - Screenshot of the final dashboard
-dashboard_enem.pbix - Power BI file with the dashboard visuals
+- README.md - Project description
+- dimensionalmodeling.png - Chart of the proposed dimensional modeling
+- DataPreparation.ipynb - Jupyter Notebook with the Python code
+- querycommands.sql - List with the most relevant SQL commands used for the project
+- dashboard.png - Screenshot of the final dashboard
+- dashboard_enem.pbix - Power BI file with the dashboard visuals
 
 ### Selected technology and tools
 

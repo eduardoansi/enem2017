@@ -97,4 +97,4 @@ While we can't argue in favour of an unequal society, we have to understand why 
 
 ### Conclusion
 
-I appreciate the opportunity to have a deadline to work on this project during the last week. I believe the end result was satisfying and the whole process has been very rewarding. I hope you like it too, and I appreciate all kinds of feedback. I really enjoy learning and figuring things out.
+I appreciate the opportunity to have a deadline to work on this project during the last week. I believe the end result was satisfying and the whole process has been very rewarding. I hope you like it too, and I appreciate all kinds of feedback. I really enjoy learning and improving my skills.

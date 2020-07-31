@@ -82,7 +82,7 @@ This is the link to the html-ready version: [Dashboard link](https://app.powerbi
 
 #### Coding ####
 
-Because almost all of my coding was done inside Jupyter Notebook, all the commands, even for SQL, are well documented there. The file is in this repository as well, named dataprocessing.ipynb.
+Because almost all of my coding was done inside Jupyter Notebook, all the commands, even for SQL, are documented there. The file is in this repository as well, named dataprocessing.ipynb.
 
 ### Alternative ways ###
 

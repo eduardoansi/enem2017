@@ -78,7 +78,7 @@ I published it within the web app and concluded the project.
 
 ![image](https://github.com/eduardoansi/enem2017/blob/master/dashboard.png)
 
-This is the link to the html-ready version: [Dashboard link]'https://app.powerbi.com/view?r=eyJrIjoiNWE4NTkxYjUtMjhjNy00YjEyLTllOGUtNDdkNmQ2YjZiNzBmIiwidCI6IjI5ZTY1ZjJhLTIxNGQtNDhjYi1iYTFkLTMzNmJmZmMxYjUyNCJ9&pageName=ReportSection'
+This is the link to the html-ready version: [Dashboard link](https://app.powerbi.com/view?r=eyJrIjoiNWE4NTkxYjUtMjhjNy00YjEyLTllOGUtNDdkNmQ2YjZiNzBmIiwidCI6IjI5ZTY1ZjJhLTIxNGQtNDhjYi1iYTFkLTMzNmJmZmMxYjUyNCJ9&pageName=ReportSection)
 
 #### Coding ####
 

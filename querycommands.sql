@@ -39,4 +39,4 @@ insert into public.provas (nu_inscricao, nota_ch, nota_cn, nota_lc, nota_mt, not
 create table cities (COD_MUN varchar(10), ESPACIALIDADE varchar(200), GINI float, POPULACAO bigint, IDHM float, IDHMRenda float, IDHMLong float, IDHMEduc float, ID bigint, CD_GEOCODI bigint, TIPO varchar(50), CD_GEOCODB bigint, NM_BAIRRO varchar(200), CD_GEOCODS bigint, NM_SUBDIST varchar(200), CD_GEOCODD bigint, NM_DISTRIT varchar(200), CD_GEOCODM bigint, NM_MUNICIP varchar(200), NM_MICRO varchar(200), NM_MESO varchar(200), NM_UF varchar(200), CD_NIVEL bigint, CD_CATEGOR bigint, NM_CATEGOR varchar(200), NM_LOCALID varchar(200), LONG double precision, LAT double precision, ALT float, GMRotation float, geometry_info varchar(200));
 
 /* Load data into cities table */
-COPY public.cities FROM 's3://sagemaker-studio-g94r3spx4fg/df_cities_merge.csv' access_key_id 'AKIA554UVSPZJKQOVWXA' secret_access_key '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' CSV STATUPDATE off ACCEPTINVCHARS IGNOREHEADER 1;
+COPY public.cities FROM 's3://sagemaker-studio-g94r3spx4fg/df_cities_merge.csv' access_key_id '*' secret_access_key '*' CSV STATUPDATE off ACCEPTINVCHARS IGNOREHEADER 1;
